@@ -1,0 +1,6 @@
+- from: "/"
+  to: "/404/"
+- from: "/ya/"
+  to: "https://yandex.ru"
+- from: "/google.html
+  to: "https://yandex.ru"
