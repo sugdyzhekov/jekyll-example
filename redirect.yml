@@ -1,4 +1,4 @@
-- from: "/"
+- from: "/index.html"
   to: "/404/"
-- from: "/ya/"
+- from: "/ya/index.html"
   to: "https://yandex.ru"
