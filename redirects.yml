@@ -4,3 +4,6 @@
   to: https://yandex.ru
 - from: /google.html
   to: https://google.com/
+- from: /blah/
+  to: https://kuda.tuda
+
